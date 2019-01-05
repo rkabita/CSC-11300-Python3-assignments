@@ -1,6 +1,4 @@
 # Rezwana Kabita
-# emplId- 23589014
-# Class- 12.30PM
 
 
 
